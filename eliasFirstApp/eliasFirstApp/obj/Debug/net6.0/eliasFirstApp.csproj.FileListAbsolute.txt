@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\bin\Debug\net6.0\eliasFirstApp.exe
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\bin\Debug\net6.0\eliasFirstApp.deps.json
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\bin\Debug\net6.0\eliasFirstApp.runtimeconfig.json
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\bin\Debug\net6.0\eliasFirstApp.dll
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\bin\Debug\net6.0\eliasFirstApp.pdb
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\obj\Debug\net6.0\eliasFirstApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\obj\Debug\net6.0\eliasFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\obj\Debug\net6.0\eliasFirstApp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\obj\Debug\net6.0\eliasFirstApp.AssemblyInfo.cs
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\obj\Debug\net6.0\eliasFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\obj\Debug\net6.0\eliasFirstApp.dll
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\obj\Debug\net6.0\refint\eliasFirstApp.dll
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\obj\Debug\net6.0\eliasFirstApp.pdb
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\obj\Debug\net6.0\eliasFirstApp.genruntimeconfig.cache
+C:\Users\hp\source\repos\eliasFirstApp\eliasFirstApp\obj\Debug\net6.0\ref\eliasFirstApp.dll
